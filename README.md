@@ -1,4 +1,4 @@
-# ZyCapstone
+# KresheaCapstone
 
 config
   1. databaseConnector.php - MYSQLI OOP Database connection
