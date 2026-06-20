@@ -1,4 +1,4 @@
-# KresheaCapstone
+# sha631-techsquad
 
 config
   1. databaseConnector.php - MYSQLI OOP Database connection
